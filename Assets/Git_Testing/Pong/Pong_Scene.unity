@@ -511,7 +511,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2436d447d2566004687af1ff6765aa88, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
+  speed: 6
   upKey: 119
   downKey: 115
 --- !u!212 &764498512
@@ -640,7 +640,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rb2D: {fileID: 0}
-  speed: 8
+  speed: 10
   vel: {x: 0, y: 0, z: 0}
   isPlaying: 0
   scoreManager: {fileID: 1570283429}
@@ -1068,7 +1068,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2436d447d2566004687af1ff6765aa88, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
+  speed: 6
   upKey: 273
   downKey: 274
 --- !u!212 &1504919508
